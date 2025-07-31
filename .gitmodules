@@ -1,0 +1,3 @@
+[submodule "pai_training"]
+	path = pai_training
+	url = https://github.com/lil888-ui/pai_training.git
